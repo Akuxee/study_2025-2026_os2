@@ -1,0 +1,38 @@
+---
+## Author
+author:
+  name: Акунаева Антонина Эрдниевна
+  degrees: Bachelor, 2nd course
+  orcid: 0000-0002-0877-7063
+  email: 1032240492@pfur.ru
+  affiliation:
+    - name: Российский университет дружбы народов
+      country: Российская Федерация
+      postal-code: 115419
+      city: Москва
+      address: ул. Орджоникидзе, д. 3
+
+## Title
+title: "Лабораторная работа №"
+subtitle: ""
+license: "CC BY"
+---
+
+# Цель работы
+
+
+
+# Выполнение лабораторной работы
+
+ ([рис. @fig-001]).
+
+![](i){#fig-001 width=70%}
+
+# Выводы
+
+
+
+# Список литературы{.unnumbered}
+
+::: {#refs}
+:::
